@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @MimiLau
-- 👀 I’m interested in Front-end Web development.
-- 🌱 I’m currently learning React, Redux, UX/UI.
+- 👀 I’m a full stack engineer, interested in front-end web development as well as back-end systems and database management.
+- 🧈 I love creating seamless user experiences and ensuring the functionality behind the scenes runs smoothly.
+- 🌱 I’m currently based in London, UK.
 - 📫 Reach me at meiyanlau98234304@gmail.com
 
 <!---
